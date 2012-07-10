@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.discoversites.javatree-1.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_discoversites_javatree_1_0</output-path>
+    <root id="archive" name="com.discoversites.javatree-1.0.jar">
+      <element id="module-output" name="JavaTree" />
+    </root>
+  </artifact>
+</component>
